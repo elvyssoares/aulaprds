@@ -8,7 +8,7 @@ Lista de presença:
 3. IRIS **A**
 4. ISAQUE **A**
 5. JOÃO PAULO **A**
-6. JOÃO VICTHOR **A**
+6. JOÃO VICTHOR **PRESENTE**
 7. LUIZ ARTHUR **A**
 8. PAULO **A**
 9. SAULO **A**
