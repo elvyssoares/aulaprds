@@ -12,7 +12,6 @@ Lista de presença:
 7. LUIZ ARTHUR ZE DA MANGAA **A**
 8. PAULO CLEBSON **A**
 9. SAULO **PRESENTE**
-10. WELLDDINGTON **A**
-
+10. WELLDDINGTON **P**
 Observação 1
 Observação 2
