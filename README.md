@@ -11,7 +11,7 @@ Lista de presença:
 6. JOÃO VICTHOR **A**
 7. LUIZ ARTHUR **A**
 8. PAULO **A**
-9. SAULO **A**
+9. SAULO **PRESENTE**
 10. WELLDDINGTON **A**
 
 Observação 1
