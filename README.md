@@ -12,7 +12,7 @@ Lista de presença:
 6. JOÃO VICTHOR **A**
 7. LUIZ ARTHUR ZE DA MANGAA **A**
 8. PAULO CLEBSON **A**
-9. SAULO **A**
+9. SAULO **PRESENTE**
 10. WELLDDINGTON **A**
 
 Observação 1
