@@ -3,7 +3,8 @@
 ## Projeto para o ensino de Git e Github
 
 Lista de presença:
-1. ALANDYSSON **A**
+
+1. ALANDYSSON ROLIM **A**
 2. DENISON **A**
 3. IRIS **A**
 4. ISAQUE **A**
