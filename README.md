@@ -9,8 +9,8 @@ Lista de presença:
 4. ISAQUE **A**
 5. JOÃO PAULO **A**
 6. JOÃO VICTHOR **A**
-7. LUIZ ARTHUR **A**
-8. PAULO **A**
+7. LUIZ ARTHUR ZE DA MANGA **A**
+8. PAULO CLEBSON **A**
 9. SAULO **A**
 10. WELLDDINGTON **A**
 
