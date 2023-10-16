@@ -12,7 +12,7 @@ Lista de presença:
 7. LUIZ ARTHUR **A**
 8. PAULO **A**
 9. SAULO **A**
-10. WELLDDINGTON **A**
+10. WELLDDINGTON **P**
 
 Observação 1
 Observação 2
