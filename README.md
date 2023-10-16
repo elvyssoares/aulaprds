@@ -4,7 +4,7 @@
 
 Lista de presença:
 1. ALANDYSSON **A**
-2. DENISON **A**
+2. DENISON
 3. IRIS **A**
 4. ISAQUE **A**
 5. JOÃO PAULO **A**
